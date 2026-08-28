@@ -42,6 +42,8 @@ The dashboard provides an overview of IPL performance through:
 - Matches by IPL Season
 - Toss Decision Analysis
 
+![IPL Analytics Dashboard](PBI%20.dashboard.preview.png)
+
 ## Machine Learning
 
 Multiple classification models were evaluated for predicting match winners, including:
